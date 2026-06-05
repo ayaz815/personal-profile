@@ -105,7 +105,7 @@ export default function Contact() {
             ayyaz.mahmood815@gmail.com
           </a>
           <a
-            href="https://linkedin.com/in/ayaz.mahmood"
+            href="https://www.linkedin.com/in/ayaz815/"
             className="contact-link"
             target="_blank"
             rel="noreferrer"
@@ -113,7 +113,7 @@ export default function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/ayaz.mahmood"
+            href="https://github.com/Ayaz815"
             className="contact-link"
             target="_blank"
             rel="noreferrer"
