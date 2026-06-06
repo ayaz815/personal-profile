@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayaz/static/css/main.b30d46f2.css",
+    "main.js": "/ayaz/static/js/main.bea1508b.js",
+    "index.html": "/ayaz/index.html",
+    "main.b30d46f2.css.map": "/ayaz/static/css/main.b30d46f2.css.map",
+    "main.bea1508b.js.map": "/ayaz/static/js/main.bea1508b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30d46f2.css",
+    "static/js/main.bea1508b.js"
+  ]
+}
