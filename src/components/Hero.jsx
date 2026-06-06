@@ -32,7 +32,7 @@ export default function Hero() {
           <div className="hero-photo-wrap">
             <div className="hero-photo-border" />
             <img
-              src="/profile.jpeg"
+              src={`${process.env.PUBLIC_URL}/profile.jpeg`}
               alt="Ayaz Mahmood"
               className="hero-photo"
             />
